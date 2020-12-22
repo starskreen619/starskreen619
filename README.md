@@ -1,4 +1,4 @@
-<h1 align='center'> Hello!! Welcome to my page 😎 </h1>
+<h1 align='center'> Hello!! Welcome to my page 😎 🌴</h1>
 
 <p align='center'>
   I'm an upcoming Full-Stack Developer at DigitalCrafts 
@@ -17,7 +17,7 @@
 <hr>
 
 
-<h4> 🤓 I’m currently working with ...</h4>
+<h4> 🤓  I’m currently working with ...</h4>
 
 <h5> Frontend</h5>
 <p >
@@ -44,7 +44,7 @@
 <hr>
 
 
-<h4>🤯 I'm currently learning...</h4>
+<h4>🤯  I'm currently learning...</h4>
 <p >
   <!-- Python -->
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@
 
 <hr>
 
-<h5>😅 Recent Projects</h5>
+<h5>😅  Recent Projects</h5>
 <p>
   <h4>
   1) 
