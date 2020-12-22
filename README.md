@@ -17,7 +17,7 @@
 <hr>
 
 
-<h4> 🔭 I’m currently working with ...</h4>
+<h4> 🤓 I’m currently working with ...</h4>
 
 <h5> Frontend</h5>
 <p >
@@ -40,11 +40,23 @@
   <!-- Next.js -->
   <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>🤯 I'm currently learning...</h4>
+<p >
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<h5>😅 Recent Projects</h5>
+<p>
+  <h4>
+  1) 
+  <!-- Brew Finder App -->
+  <a href="https://github.com/starskreen619/central-command-7">Front-End App that allows you to find a Brewery near you and it suggest a type of beer depending the weather real time &nbsp;&nbsp;&nbsp;
+    <!-- HTML 5 -->
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/javascript%20-%238B8B8B.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  </h4>
+</p>
